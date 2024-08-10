@@ -1,0 +1,234 @@
+## For billBoard
+
+Api call: `https://aishowprep.com/api/v1/billboard`
+Api method: POST
+Api request body: ```
+{
+"newData":[
+{
+"Position": 1,
+"Title": "A Bar Song (Tipsy)",
+"Artist": "Shaboozey"
+},
+{
+"Position": 2,
+"Title": "I Had Some Help",
+"Artist": "Post Malone Featuring Morgan Wallen"
+},
+{
+"Position": 3,
+"Title": "Not Like Us",
+"Artist": "Kendrick Lamar"
+},
+{
+"Position": 4,
+"Title": "Espresso",
+"Artist": "Sabrina Carpenter"
+},
+{
+"Position": 5,
+"Title": "Million Dollar Baby",
+"Artist": "Tommy Richman"
+},
+{
+"Position": 6,
+"Title": "Lose Control",
+"Artist": "Teddy Swims"
+},
+{
+"Position": 7,
+"Title": "Too Sweet",
+"Artist": "Hozier"
+},
+{
+"Position": 8,
+"Title": "Good Luck, Babe!",
+"Artist": "Chappell Roan"
+},
+{
+"Position": 9,
+"Title": "Please Please Please",
+"Artist": "Sabrina Carpenter"
+},
+{
+"Position": 10,
+"Title": "Birds Of A Feather",
+"Artist": "Billie Eilish"
+}
+]
+}
+
+```
+
+```
+
+## box office
+
+Api call: `https://aishowprep.com/api/v1/box-office`
+Api method: POST
+Api request body: ```
+{ "newData":[
+{
+"Position": 1,
+"Title": "Deadpool & Wolverine",
+"Weekend Gross": "$97M",
+"Total Gross": "$431M",
+"Weeks Released": 2
+},
+{
+"Position": 2,
+"Title": "Twisters",
+"Weekend Gross": "$23M",
+"Total Gross": "$205M",
+"Weeks Released": 3
+},
+{
+"Position": 3,
+"Title": "Trap",
+"Weekend Gross": "$15M",
+"Total Gross": "$21M",
+"Weeks Released": 1
+},
+{
+"Position": 4,
+"Title": "Despicable Me 4",
+"Weekend Gross": "$11M",
+"Total Gross": "$321M",
+"Weeks Released": 5
+},
+{
+"Position": 5,
+"Title": "Inside Out 2",
+"Weekend Gross": "$6.8M",
+"Total Gross": "$631M",
+"Weeks Released": 8
+}
+]}
+
+```
+
+```
+
+## uk singles
+
+Api call: `https://aishowprep.com/api/v1/uk-singles`
+Api method: POST
+Api request body: ```
+{ "newData":[
+{
+"Position": 1,
+"Title": "PLEASE PLEASE PLEASE",
+"Artist": "SABRINA CARPENTER"
+},
+{
+"Position": 2,
+"Title": "GOOD LUCK BABE",
+"Artist": "CHAPPELL ROAN"
+},
+{
+"Position": 3,
+"Title": "BIRDS OF A FEATHER",
+"Artist": "BILLIE EILISH"
+},
+{
+"Position": 4,
+"Title": "STARGAZING",
+"Artist": "MYLES SMITH"
+},
+{
+"Position": 5,
+"Title": "AUSTIN",
+"Artist": "DASHA"
+},
+{
+"Position": 6,
+"Title": "HOUDINI",
+"Artist": "EMINEM"
+},
+{
+"Position": 7,
+"Title": "KISSES",
+"Artist": "BL3SS/CAMRINWATSIN/BBYCLOSE"
+},
+{
+"Position": 8,
+"Title": "ESPRESSO",
+"Artist": "SABRINA CARPENTER"
+},
+{
+"Position": 9,
+"Title": "NOT LIKE US",
+"Artist": "KENDRICK LAMAR"
+},
+{
+"Position": 10,
+"Title": "A BAR SONG (TIPSY)",
+"Artist": "SHABOOZEY"
+}
+]}
+
+```
+
+```
+
+## new music
+
+Api call: `https://aishowprep.com/api/v1/new-music`
+Api method: POST
+Api request body: ```
+{ "newData":[
+{
+"Position": 1,
+"Title": "DIET PEPSI",
+"Artist": "ADDISON RAE"
+},
+{
+"Position": 2,
+"Title": "ONCE A BUNCH",
+"Artist": "ADRIANNA LENKER"
+},
+{
+"Position": 3,
+"Title": "NEON NIGHTS",
+"Artist": "ALAN WALKER"
+},
+{
+"Position": 4,
+"Title": "CARRY YOU HOME",
+"Artist": "ALEX WARREN"
+},
+{
+"Position": 5,
+"Title": "ROSES",
+"Artist": "ALISA XAYALITH"
+},
+{
+"Position": 6,
+"Title": "BENJAMIN INGROSSO",
+"Artist": "ALL MY LIFE"
+},
+{
+"Position": 7,
+"Title": "WHY I LOVE YOU SO",
+"Artist": "ALOK"
+},
+{
+"Position": 8,
+"Title": "GONE",
+"Artist": "AMY SHARK"
+},
+{
+"Position": 9,
+"Title": "WASABI",
+"Artist": "ARIELLE FREE"
+},
+{
+"Position": 10,
+"Title": "AGE LIKE WINE",
+"Artist": "ARZ"
+}
+
+]}
+
+```
+
